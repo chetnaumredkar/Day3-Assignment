@@ -8,7 +8,7 @@ public class ArrayEvenPosition {
 		int i;
 
 		for (i = 1; i <= num.length; i = i + 2) {
-		}
+		
 		System.out.println("The elements in an even position of array are:" + Arrays.toString(num));
-	}
+		}}
 }
